@@ -3,7 +3,7 @@ title: Monotone boards
 description: Welcome to Hugo Theme Stack
 slug: 2025-11-22
 date: 2025-11-22 00:00:00+0000
-image: cover.jpg
+
 categories:
     - Monotone Boards
 tags:
@@ -12,6 +12,8 @@ weight: 1       # You can add weight to some posts to override the default sorti
 ---
 
 Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
+
+<div class="playing-card>Ac</div>
 
 For more information about this theme, check the documentation: https://stack.jimmycai.com/
 
