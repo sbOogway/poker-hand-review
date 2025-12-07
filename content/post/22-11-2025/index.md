@@ -1,9 +1,9 @@
 ---
 title: Monotone boards
-description: Welcome to Hugo Theme Stack
+description: Various bet sized on monotone boards
 slug: 2025-11-22
 date: 2025-11-22 00:00:00+0000
-image: cover.jpg
+
 categories:
     - Monotone Boards
 tags:
